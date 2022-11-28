@@ -19,4 +19,4 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 ### Link For WD Blog EG
-> https://wd-blog-eg.herokuapp.com/
+> https://wd-blog-eg.up.railway.app/
